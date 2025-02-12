@@ -49,9 +49,24 @@ I love exploring new technologies and continuously improving my skill set. Wheth
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical)
+**2024 GitHub Stats:**  
+![Deepak's GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+**2023 GitHub Stats:**  
+![Deepak's GitHub stats 2023](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true&year=2023)
 
 ## 📌 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakatAleait&layout=compact&theme=radical)
+**2024 Top Languages:**  
+![Top Languages 2024](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakatAleait&layout=compact&theme=radical)
+
+**2023 Top Languages:**  
+![Top Languages 2023](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakatAleait&layout=compact&theme=radical&hide=css,html) <!-- Example of hiding certain languages -->
+
+## 📈 GitHub Activity Graph  
+**2024 Activity:**  
+![Deepak's Activity Graph 2024](https://github-readme-activity-graph.cyclic.app/graph/?username=deepakatAleait&theme=react-dark)
+
+**2023 Activity:**  
+![Deepak's Activity Graph 2023](https://github-readme-activity-graph.cyclic.app/graph/?username=deepakatAleait&theme=react-dark&from=2023-01-01&to=2023-12-31)
 
 ⚡ **Fun Fact:** I love collaborating on **open-source projects** and building **AI-powered solutions** that improve efficiency and business workflows!
