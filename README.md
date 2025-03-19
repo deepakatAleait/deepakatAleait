@@ -51,23 +51,25 @@ I love exploring new technologies and continuously improving my skill set. Wheth
 ## 📊 GitHub Stats  
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+
 🏆 **Total Commits (All Time):**  
-![Total Commits](https://komarev.com/ghpvc/?username=deepakatAleait&label=Total%20Commits&color=blue)
+![Total Commits](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true&count_private=true)
+
+📆 **2025 Commits:**  
+![2025 Commits](https://github-readme-streak-stats.herokuapp.com/?user=deepakatAleait&theme=radical)
+
+---
 
 ## 📈 GitHub Activity Graph  
 
-### **2024 GitHub Activity**  
-![Deepak's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakatAleait&theme=radical)
+**2025 Activity:**  
+![Deepak's Activity Graph 2025](https://github-readme-activity-graph.cyclic.app/graph/?username=deepakatAleait&theme=react-dark)  
 
-### **2023 GitHub Activity**  
-![Deepak's GitHub Activity Graph 2023](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakatAleait&theme=radical&from=2023-01-01&to=2023-12-31)
- Example of hiding certain languages -->
-
-## 📈 GitHub Activity Graph  
 **2024 Activity:**  
-![Deepak's Activity Graph 2024](https://github-readme-activity-graph.cyclic.app/graph/?username=deepakatAleait&theme=react-dark)
+![Deepak's Activity Graph 2024](https://github-readme-activity-graph.cyclic.app/graph/?username=deepakatAleait&theme=react-dark&from=2024-01-01&to=2024-12-31)  
 
 **2023 Activity:**  
-![Deepak's Activity Graph 2023](https://github-readme-activity-graph.cyclic.app/graph/?username=deepakatAleait&theme=react-dark&from=2023-01-01&to=2023-12-31)
+![Deepak's Activity Graph 2023](https://github-readme-activity-graph.cyclic.app/graph/?username=deepakatAleait&theme=react-dark&from=2023-01-01&to=2023-12-31)  
+
 
 ⚡ **Fun Fact:** I love collaborating on **open-source projects** and building **AI-powered solutions** that improve efficiency and business workflows!
