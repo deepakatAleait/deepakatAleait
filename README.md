@@ -49,18 +49,19 @@ I love exploring new technologies and continuously improving my skill set. Wheth
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ## 📊 GitHub Stats  
-**2024 GitHub Stats:**  
-![Deepak's GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-**2023 GitHub Stats:**  
-![Deepak's GitHub stats 2023](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true&year=2023)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+🏆 **Total Commits (All Time):**  
+![Total Commits](https://komarev.com/ghpvc/?username=deepakatAleait&label=Total%20Commits&color=blue)
 
-## 📌 Top Languages  
-**2024 Top Languages:**  
-![Top Languages 2024](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakatAleait&layout=compact&theme=radical)
+## 📈 GitHub Activity Graph  
 
-**2023 Top Languages:**  
-![Top Languages 2023](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakatAleait&layout=compact&theme=radical&hide=css,html) <!-- Example of hiding certain languages -->
+### **2024 GitHub Activity**  
+![Deepak's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakatAleait&theme=radical)
+
+### **2023 GitHub Activity**  
+![Deepak's GitHub Activity Graph 2023](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakatAleait&theme=radical&from=2023-01-01&to=2023-12-31)
+ Example of hiding certain languages -->
 
 ## 📈 GitHub Activity Graph  
 **2024 Activity:**  
