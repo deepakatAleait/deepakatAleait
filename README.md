@@ -50,7 +50,7 @@ I love exploring new technologies and continuously improving my skill set. Wheth
 
 ## 📊 GitHub Stats  
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 🏆 **Total Commits (All Time):**  
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=deepakatAleait&show_icons=true&theme=radical&count_private=true&include_all_commits=true&count_private=true)
